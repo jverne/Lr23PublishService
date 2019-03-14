@@ -75,17 +75,15 @@ to the database schema.
 
 ## Who did this thing?
 
-The 23 Photo Sharing publish service plug–in is created by John D. Verne,
+The 23 Photo Sharing publish service plug–in is created by [John D. Verne](http://clevermonkey.org),
 from example code provided by Adobe.
 
 ## What if I need help?
 
 I cannot offer any sort of real support. Ideally, you should raise questions and
-make comments in the [23 API forum](http://www.23hq.com/photogroup/tech/conversation)
+make comments in the [23 API forum](http://www.23hq.com/photogroup/tech/conversation) even though that appears to be somewhat abondoned at this point.
 
-If you are reporting a problem, be sure to explain the problem as
-clearly as you can and include details like the version of Lightroom and
-your operating system.
+If you are reporting a problem, be sure to explain the problem as clearly as you can and include details like the version of Lightroom and your operating system.
 
 If you run into a problem and can't seem to get any help from anyone,
 always check http://clevermonkey.org/Lightroom or the 23 Photo Sharing
